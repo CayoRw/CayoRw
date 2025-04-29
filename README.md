@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm Cayo Rawlisom (@CayoRw)
+## En-Us
+# 👋 Hi there! I'm Cayo Rawlisom
 
 🎓 Computer Technician from IFMG - Bambuí  
 📚 Electrical Engineering student at UFSJ  
@@ -12,7 +13,7 @@
 
 ---
 
-## 📬 How to reach me?
+## 📬 How You can Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayo-rawlisom-407816247)
 [![Instagram](https://img.shields.io/badge/@cayorw-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cayorw)
@@ -27,12 +28,8 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/CayoRw/CayoRw/blob/output/github-contribution-grid-snake.svg)
-
----
-
+-------------------------------------------------------------------------------------------------------------------------------------
+## Pt-Br
 # 👋 Olá! Eu sou o Cayo Rawlisom (@CayoRw)
 
 🎓 Técnico em Informática pelo IFMG - Bambuí  
@@ -60,8 +57,3 @@
 ![Cayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CayoRw&show_icons=true&theme=dracula&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CayoRw&layout=compact&theme=dracula)
 
----
-
-## 🐍 Snake de Contribuições do GitHub
-
-![snake gif](https://github.com/CayoRw/CayoRw/blob/output/github-contribution-grid-snake.svg)
