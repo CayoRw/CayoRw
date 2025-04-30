@@ -1,8 +1,8 @@
 ## En-Us
-# 👋 Hi there! I'm Cayo Rawlisom
+# 👋 Hello there! I'm Cayo Rawlisom
 
-🎓 Computer Technician from IFMG - Bambuí  
-📚 Electrical Engineering student at UFSJ  
+🎓 Integrated Technical Education in Information Technology from IFMG - Bambuí  
+📚 Electrical Engineering student at UFSJ - São João del-Rei
 
 ---
 
@@ -27,13 +27,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CayoRw&layout=compact&theme=dracula)
 
 ---
-
--------------------------------------------------------------------------------------------------------------------------------------
+##
+---
 ## Pt-Br
 # 👋 Olá! Eu sou o Cayo Rawlisom (@CayoRw)
 
 🎓 Técnico em Informática pelo IFMG - Bambuí  
-📚 Estudante de Engenharia Elétrica na UFSJ  
+📚 Estudante de Engenharia Elétrica na UFSJ - São João del-Rei
 
 ---
 
