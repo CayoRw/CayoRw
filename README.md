@@ -84,33 +84,44 @@ MATLAB implementation for:
 
 ## 📚 Publications
 
-### SBAI – Brazilian Symposium on Intelligent Automation
+- Real-Time Controllers with PyDAQ: Tool Development and New Results (SBAI)
+- Application of Real-Time Digital Filters Using PyDAQ (SBAI)
 
-- Real-Time Controllers with PyDAQ: Tool Development and New Results
-- Application of Real-Time Digital Filters Using PyDAQ
+## 🏆 Engineering Highlights
 
----
-
-## 🏆 Highlights
-
-- Electrical Systems Coordinator — SAE AeroDesign Micro Class
 - SAE AeroDesign Brazil 2022 National Champion
-- SAE AeroDesign East (Texas, USA) — Top 10 Worldwide
-- Contributor and maintainer of open-source engineering software
-- Experience with industrial energy monitoring systems (Schneider Electric PME)
+- SAE AeroDesign East (Texas, USA) – Top 10 Worldwide
+- Electrical Systems Coordinator – Trem Ki Voa Micro
+- Open-source maintainer of PyDAQ
+- Experience with Schneider Electric PME and SQL databases
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CayoRw&show_icons=true&theme=default)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CayoRw&layout=compact)
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CayoRw&show_icons=true"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CayoRw&layout=compact"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayo-rawlisom-407816247)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayo-rawlisom-407816247) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cayorwcs@gmail.com.br) 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cayorwcs@aluno.ufsj.edu.br)
