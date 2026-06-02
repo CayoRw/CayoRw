@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Cayo Rawlisom
 
-Electrical Engineer at UFSJ with a technical background in Information Technology from IFMG.
+Electrical Engineer from UFSJ with a technical background in Information Technology from IFMG.
 
 My interests are focused on:
 
